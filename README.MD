@@ -36,7 +36,7 @@
 ## How to Setup
 
 ```bash
-git clone https://github.com/Shikhar15606/CineCup-Backend.git
+git clone https://github.com/Biswajit6844/backend
 cd CineCup-Backend
 npm install
 ```
